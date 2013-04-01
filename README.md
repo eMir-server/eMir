@@ -1,10 +1,11 @@
 Readme
 ======
 
-mir - cross-platform display manager
-------------------------------------
+emir - reliable cross-platform display manager
+----------------------------------------------
 
-Mir is a display manager that provides efficient support for graphics coprocessors.
+eMir is a display manager that provides efficient support for graphics coprocessors.
+eMir was forked from http://launchpad.net/mir as the '-ng' version of Canonical's Mir.
 
 License (server)
 -------
